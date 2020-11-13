@@ -1,40 +1,41 @@
 /*Global*/
 * {
-	font-style: italic;
+    font-style: italic;
 }
 p {
-	font-size: 0.8rem;
+    font-size: 0.8rem;
+    line-height: 1.5rem;
 }
 
 .btn {
-	padding: 0.5rem 1.5rem;
+    padding: 0.5rem 1.5rem;
 }
 
 .page-label {
-	letter-spacing: 0.25rem;
+    letter-spacing: 0.25rem;
 }
 
 /*Navbar*/
 .navbar .navbar-nav .nav-link {
-	padding: 0rem 1rem;
+    padding: 0rem 1rem;
 }
 
 /*Top*/
 
 .top {
-	padding: 150px 0 150px;
-	background-image: url('../images/top-bg.jpg');
-	background-position: 50% 50%;
-	background-repeat: no-repeat;
+    padding: 150px 0 150px;
+    background-image: url('../images/top-bg.jpg');
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
 }
 
 .top-header {
-	margin-bottom: 1rem;
-	font-size: 2.5rem;
+    margin-bottom: 1rem;
+    font-size: 2.5rem;
 }
 
 .top-text {
-	font-size: 1rem;
+    font-size: 1rem;
 }
 
 /*Introduction*/
@@ -44,9 +45,30 @@ p {
 }
 
 .introduction-item {
-	padding: 0 2rem;
+    padding: 0 2rem;
 }
 
 .introduction-header {
-	margin: 1rem 0 0.5rem;
+    margin: 1rem 0 0.5rem;
+}
+
+/*Opinion*/
+.testimonial {
+    padding: 150px 0 150px;
+    background-image: url('../images/testimonial-bg.jpg');
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
+
+.testimonial-content {
+    width: 60%;
+}
+
+.testimonial-header {
+	font-size: 2.5rem;
+	font-weight: bold;
+}
+
+.testimonial-text {
+    font-size: 1rem;
 }
