@@ -1,0 +1,15 @@
+/*Global*/
+* {
+	font-style: italic;
+}
+p {
+	font-size: 0.8rem;
+}
+
+.btn {
+	padding: 0.5rem 1.5rem;
+}
+
+.page-label {
+	letter-spacing: 0.25rem;
+}
