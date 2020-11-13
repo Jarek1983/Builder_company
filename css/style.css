@@ -37,4 +37,16 @@ p {
 	font-size: 1rem;
 }
 
+/*Introduction*/
 
+.introduction {
+    padding: 25px 0 50px;
+}
+
+.introduction-item {
+	padding: 0 2rem;
+}
+
+.introduction-header {
+	margin: 1rem 0 0.5rem;
+}
