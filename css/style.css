@@ -72,3 +72,22 @@ p {
 .testimonial-text {
     font-size: 1rem;
 }
+
+/*Projects*/
+.portfolio {
+    padding: 60px 0;
+    background-color: #F8F8F8;
+}
+
+.portfolio-label {
+    font-size: 0.75rem;
+}
+
+.portfolio-subheading {
+    margin: 2rem 0;
+}
+
+.portfolio-button {
+    margin: 0.5rem 0;
+    padding: 0.5rem 3rem;
+}
