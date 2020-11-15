@@ -85,6 +85,8 @@ p {
 
 .portfolio-subheading {
     margin: 2rem 0;
+    font-size: 1rem;
+    font-weight: bold;
 }
 
 .portfolio-button {
@@ -149,4 +151,12 @@ textarea {
 
 .footer-second-col li:first-child {
     padding-top: 0;
+}
+
+/*Copyright*/
+.copyright {
+    padding: 30px 0;
+}
+.copyright-first {
+    font-size: 0.7rem;
 }
