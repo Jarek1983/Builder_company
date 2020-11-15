@@ -91,3 +91,34 @@ p {
     margin: 0.5rem 0;
     padding: 0.5rem 3rem;
 }
+
+/*Contact*/
+
+.write {
+    width: 80%;
+    padding: 20px 0 50px;
+}
+
+.write-header {
+    font-size: 1.5rem;
+}
+
+.form-control-label {
+    margin-bottom: 0.25rem;
+    font-size: 0.8rem;
+    color: #999999;
+}
+
+.form-control {
+    border-radius: 5px;
+    border-color: #0000ff;
+}
+
+input {
+    height: 2rem;
+}
+
+textarea {
+    margin-bottom: 1.5rem;
+}
+
